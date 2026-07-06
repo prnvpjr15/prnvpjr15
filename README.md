@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
+  <img src="assets/banner.png" alt="GitHub Banner" width="70%">
 </p>
 
 # Hi, I'm Siva Sai Pranav Pujari 👋
