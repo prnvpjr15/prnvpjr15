@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Siva Sai Pranav Pujari 👋
 
 **IT Student** interested in **Backend** and **Full Stack Development**.
@@ -37,5 +41,4 @@ I enjoy building scalable web applications, designing REST APIs, and working acr
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-sai-pranav-pujari-42b917275)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prnvpjr@gmail.com)
